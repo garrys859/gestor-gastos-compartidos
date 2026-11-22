@@ -1,0 +1,12 @@
+# Ficheros que genera el programa
+datos.json
+resumen.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Editores
+.vscode/
+.idea/
